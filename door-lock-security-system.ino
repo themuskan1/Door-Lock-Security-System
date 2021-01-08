@@ -227,6 +227,3 @@ void loop() {
      }
   }
 }
-//Ground pin of Fingerprint Sensor is connected to the Ground
-//Vcc pin to the 5v and Rx pin to 10 and Tx to the 11 of the
-//Arduino Mega 2560.
