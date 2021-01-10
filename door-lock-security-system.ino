@@ -18,7 +18,6 @@ Servo sg90;
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial); 
 
 // Initialize Pins for led's, servo and buzzer
-// Blue LED is connected to 5V
 constexpr uint8_t greenLed = 7;
 constexpr uint8_t redLed = 6;
 constexpr uint8_t servoPin = 8;
